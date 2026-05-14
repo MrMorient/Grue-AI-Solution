@@ -1,0 +1,78 @@
+8
+8
+7
+7
+0
+0
+1
+1
+2
+5
+6
+6
+0
+7
+........
+.##.....
+....#...
+##......
+....##..
+........
+..#.....
+........
+1|Forgotten Entrance
+0|Dusty Corridor
+1|Watcher Hall
+0|Broken Passage
+1|Ancient Gallery
+0|Flooded Tunnel
+1|Torch Chamber
+0|Silent Crossing
+1|Stone Hall
+0|Collapsed Library
+1|Ruined Barracks
+0|Shadow Corridor
+1|Crystal Cavern
+0|Whisper Hall
+1|Old Armory
+0|Dark Stairway
+1|Underground Shrine
+0|Spider Nest
+1|Ancient Kitchen
+0|Lost Tunnel
+1|Guard Post
+0|Hidden Passage
+1|Echo Chamber
+0|Dark Crossing
+1|Flooded Vault
+0|Broken Bridge
+1|Forgotten Chapel
+0|Collapsed Hall
+1|Ancient Forge
+0|Deep Cavern
+1|Treasure Approach
+0|Silent Chamber
+1|Ruined Hallway
+0|Dark Storage
+1|Mossy Corridor
+0|Hidden Cavern
+1|Watcher Room
+0|Abandoned Tunnel
+1|Crystal Hall
+0|Broken Sanctuary
+1|Dusty Armory
+0|Underground Crossing
+1|Ancient Passage
+0|Shadow Vault
+1|Forgotten Shrine
+0|Flooded Hall
+1|Silent Gallery
+0|Collapsed Cavern
+1|Hidden Barracks
+0|Dark Refuge
+1|Treasure Vault
+0|Escape Tunnel
+1|Final Corridor
+0|Outer Passage
+1|Exit Hallways
+1|Dungeon Exit
